@@ -18,8 +18,8 @@ deploy:
   ready_seconds : 45
 
 properties:
-  title: Tomcat Loadgen - Demo over Zoom to HYD
-  head_color : Green
+  title: Tomcat Loadgen - SriRam
+  head_color : Blue
   threads: 1
   delay: 60
   next: 60
